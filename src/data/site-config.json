@@ -110,5 +110,6 @@
       "email": "info@velvetcoffee.com",
       "map_query": "Velvet Coffee Roastery Bostanlı İzmir"
     }
-  }
+  },
+  "is_paid": true
 }
